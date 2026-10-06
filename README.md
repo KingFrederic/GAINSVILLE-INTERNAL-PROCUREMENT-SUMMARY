@@ -1,15 +1,25 @@
 # Gainesville Internal Procurement Summary
 
-## Order total
+## Updated line-item totals (9 supplied styles)
 
-| Item | Unit price | Quantity | Subtotal |
+| Item | Unit price | Order quantity | Subtotal |
 |---|---:|---:|---:|
 | Net T-Shirt | ₦16,000 | 40 | ₦640,000 |
 | Joggers | ₦22,000 | 80 | ₦1,760,000 |
 | Male Tank Top | ₦18,000 | 110 | ₦1,980,000 |
 | Jersey Sleeveless | ₦16,000 | 40 | ₦640,000 |
 | Armcut Sleeveless | ₦18,000 | 60 | ₦1,080,000 |
-| **Total** |  | **330** | **₦6,100,000** |
+| Joggers Shorts | ₦17,000 | 60 | ₦1,020,000 |
+| Female Shirts | ₦11,000 | 100 | ₦1,100,000 |
+| Female Spandex Roundneck | ₦13,000 | 120 | ₦1,560,000 |
+| Female Joggers Shorts | ₦15,000 | 90 | ₦1,350,000 |
+| **Total for supplied line items** |  | **700** | **₦11,130,000** |
+
+**Quantity check:** The Joggers Shorts size breakdown below totals 65 pieces, although the confirmed order quantity is 60. As requested, its listed size quantities are unchanged and the line-item total remains 60 pieces / ₦1,020,000. The other line-item quantities match their size breakdowns.
+
+## Catalogue-wide total
+
+The catalogue in `index.html` includes the 9 supplied line items plus the unchanged existing styles: **16 styles**, **1,970 ordered pieces**, and **₦25,300,000** in specified order value. The Joggers Shorts catalogue/order total uses the confirmed 60-piece quantity noted above.
 
 ## Net T-Shirt — 40 pieces
 
@@ -33,7 +43,7 @@
 | Pink | 3 | 4 | 4 | 11 |
 | Purple | 4 | 4 | 4 | 12 |
 | Brown | — | 6 | 6 | 12 |
-| **Total** | **19** | **29** | **32** | **80** |
+| **Breakdown total** | **19** | **29** | **32** | **80** |
 
 ## Male Tank Top — 110 pieces
 
@@ -44,7 +54,7 @@
 | Brown | 6 | 4 | 6 | 4 | 20 |
 | Burgundy | 6 | 4 | 4 | 6 | 20 |
 | Blue | 4 | 6 | 6 | 4 | 20 |
-| **Total** | **27** | **28** | **27** | **28** | **110** |
+| **Breakdown total** | **27** | **28** | **27** | **28** | **110** |
 
 ## Jersey Sleeveless — 40 pieces
 
@@ -65,4 +75,45 @@
 |---|---:|---:|---:|---:|---:|
 | Ash | 7 | 8 | 7 | 8 | 30 |
 | Black | 8 | 7 | 8 | 7 | 30 |
-| **Total** | **15** | **15** | **15** | **15** | **60** |
+| **Breakdown total** | **15** | **15** | **15** | **15** | **60** |
+
+## Joggers Shorts — 60 ordered pieces; size breakdown totals 65
+
+| Colour | S | M | L | XL | XXL | Breakdown total |
+|---|---:|---:|---:|---:|---:|---:|
+| Black | 3 | 6 | 5 | 6 | 5 | 25 |
+| Ash | 3 | 5 | 6 | 5 | 4 | 23 |
+| Purple | — | 5 | 5 | 4 | 3 | 17 |
+| **Breakdown total** | **6** | **16** | **16** | **15** | **12** | **65** |
+
+## Female Shirts — 100 pieces
+
+| Colour | M | L | XL | Total |
+|---|---:|---:|---:|---:|
+| Black | 7 | 8 | 10 | 25 |
+| Navy Blue | 3 | 6 | 6 | 15 |
+| Pink | 3 | 6 | 6 | 15 |
+| Green | 3 | 6 | 6 | 15 |
+| Sky Blue | 3 | 6 | 6 | 15 |
+| Ash | 3 | 6 | 6 | 15 |
+| **Breakdown total** | **22** | **38** | **40** | **100** |
+
+## Female Spandex Roundneck — 120 pieces
+
+| Colour | M | L | XL | 2XL | 3XL | Total |
+|---|---:|---:|---:|---:|---:|---:|
+| Khaki | 5 | 6 | 7 | 6 | 6 | 30 |
+| Pink | 7 | 5 | 7 | 6 | 5 | 30 |
+| Black | 4 | 5 | 7 | 7 | 7 | 30 |
+| Light Grey | 4 | 7 | 7 | 7 | 5 | 30 |
+| **Breakdown total** | **20** | **23** | **28** | **26** | **23** | **120** |
+
+## Female Joggers Shorts — 90 pieces
+
+| Colour | S | M | L | XL | 2XL | Total |
+|---|---:|---:|---:|---:|---:|---:|
+| Black | 4 | 5 | 6 | 6 | 6 | 27 |
+| Grey | 5 | 4 | 6 | 6 | 6 | 27 |
+| Dark Blue | 3 | 3 | 4 | 4 | 4 | 18 |
+| Pink | 3 | 3 | 4 | 4 | 4 | 18 |
+| **Breakdown total** | **15** | **15** | **20** | **20** | **20** | **90** |
