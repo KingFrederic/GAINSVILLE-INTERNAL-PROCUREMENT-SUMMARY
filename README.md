@@ -7,7 +7,7 @@ Interactive catalogue: `index.html` — **14 style cards**, each with photo, ord
 | Metric | Value |
 |---|---:|
 | Styles in catalogue | 14 |
-| Specified pieces | 1,480 pcs |
+| Specified pieces | 1,470 pcs |
 | Specified order value | NGN 17,290,000 |
 
 CAPS carries no figures in the source workbook, so it adds neither units nor value. SOCKS carries 200 specified pieces but no pricing, so it adds to specified units and NGN 0 to specified order value. "Not specified" marks fields left blank in the source sheet.
@@ -26,15 +26,15 @@ CAPS carries no figures in the source workbook, so it adds neither units nor val
 | 08 | Female Spandex Roundneck | NGN 13,000 | 120 pcs | NGN 1,560,000 |
 | 09 | Barell Joggers | NGN 22,000 | 80 pcs | NGN 1,760,000 |
 | 10 | Jogger Shorts | NGN 17,000 | 60 pcs | NGN 1,020,000 |
-| 11 | Jogger Shorts (Female) | NGN 15,000 | 100 pcs | NGN 1,300,000 |
+| 11 | Jogger Shorts (Female) | NGN 15,000 | 90 pcs | NGN 1,300,000 |
 | 12 | Tote Bag | NGN 10,000 | 200 pcs | NGN 1,600,000 |
 | 13 | Caps | Not specified | Not specified | Not specified |
 | 14 | Socks | Not specified | 200 pcs | Not specified |
-| | **Total** | | **1,480 pcs** | **NGN 17,290,000** |
+| | **Total** | | **1,470 pcs** | **NGN 17,290,000** |
 
 ## Quantity reconciliation
 
-The following size breakdowns, as supplied, do not add up to the stated order quantity. Per confirmation the stated order quantity and order value stand, and the listed size quantities are unchanged; each affected card carries a *Quantity check* note. Jersey Sleeveless was reconciled to 100 pieces, matching its size breakdown.
+The following size breakdowns, as supplied, did not add up to the stated order quantity. Per confirmation the stated order value stands, and the listed size quantities are unchanged; each affected card carries a *Quantity check* note. Jersey Sleeveless was reconciled to 100 pieces, matching its size breakdown. Jogger Shorts (Female) was reconciled to 90 pieces, matching its size breakdown; its NGN 1,300,000 order value is reproduced as stated.
 
 | Item | Size breakdown total | Stated order quantity | Difference |
 |---|---:|---:|---:|
@@ -42,11 +42,10 @@ The following size breakdowns, as supplied, do not add up to the stated order qu
 | Female T-Shirts | 105 | 200 | -95 |
 | Barell Joggers | 91 | 80 | +11 |
 | Jogger Shorts | 65 | 60 | +5 |
-| Jogger Shorts (Female) | 90 | 100 | -10 |
 
 ## Order value basis
 
-Order values reproduce the amounts stated in the submission. On Net T-Shirts, Jersey Sleeveless, Arm-Cut Sleeveless, Male Tank Tops, Male T-Shirts, Female Tank Tops, Female Spandex Roundneck, Barell Joggers and Jogger Shorts the stated value equals order quantity x unit price; Female T-Shirts, Jogger Shorts (Female) and Tote Bag values are reproduced as stated.
+Order values reproduce the amounts stated in the submission. On Net T-Shirts, Jersey Sleeveless, Arm-Cut Sleeveless, Male Tank Tops, Male T-Shirts, Female Tank Tops, Female Spandex Roundneck, Barell Joggers and Jogger Shorts the stated value equals order quantity x unit price; Female T-Shirts, Jogger Shorts (Female) and Tote Bag values are reproduced as stated (Jogger Shorts (Female) is NGN 1,300,000 on 90 pieces at the NGN 15,000 unit price).
 
 ## Not specified in the source workbook
 
@@ -190,7 +189,7 @@ These details are needed before the CAPS and SOCKS lines can be fully costed.
 
 ### 11 · Jogger Shorts (Female)
 
-**Order volume:** 100 pcs · **Unit price:** NGN 15,000 · **Order value:** NGN 1,300,000
+**Order volume:** 90 pcs · **Unit price:** NGN 15,000 · **Order value:** NGN 1,300,000
 
 | Colour | S | M | L | XL | XXL | Total |
 |---|---:|---:|---:|---:|---:|---:|
@@ -200,7 +199,7 @@ These details are needed before the CAPS and SOCKS lines can be fully costed.
 | Pink | 2 | 3 | 5 | 5 | 5 | 20 |
 | **Breakdown total** | — | — | — | — | — | **90** |
 
-> **Quantity check:** The supplied size breakdown totals 90 pieces. Per confirmation, the order quantity is 100 pieces (NGN 1,300,000); the listed size quantities are unchanged.
+> **Quantity check:** The supplied size breakdown totals 90 pieces, matching the confirmed order quantity of 90 pieces. The NGN 1,300,000 order value is as stated in the submission; the listed size quantities are unchanged.
 
 ### 12 · Tote Bag
 
