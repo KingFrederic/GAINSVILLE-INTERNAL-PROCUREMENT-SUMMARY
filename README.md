@@ -42,7 +42,7 @@ The following size breakdowns, as supplied, do not add up to the stated order qu
 | Female T-Shirts | 105 | 200 | -95 |
 | Barell Joggers | 91 | 80 | +11 |
 | Jogger Shorts | 65 | 60 | +5 |
-| Jogger Shorts (Female) | 96 | 100 | -4 |
+| Jogger Shorts (Female) | 90 | 100 | -10 |
 
 ## Order value basis
 
@@ -194,13 +194,13 @@ These details are needed before the CAPS and SOCKS lines can be fully costed.
 
 | Colour | S | M | L | XL | XXL | Total |
 |---|---:|---:|---:|---:|---:|---:|
-| Black | 4 | 5 | 7 | 7 | 7 | 30 |
-| Grey | 5 | 4 | 7 | 7 | 7 | 30 |
-| Navy Blue | 3 | 3 | 4 | 4 | 4 | 18 |
-| Pink | 3 | 3 | 4 | 4 | 4 | 18 |
-| **Breakdown total** | — | — | — | — | — | **96** |
+| Black | 3 | 5 | 7 | 8 | 7 | 30 |
+| Grey | 2 | 3 | 5 | 5 | 5 | 20 |
+| Navy Blue | 2 | 3 | 5 | 5 | 5 | 20 |
+| Pink | 2 | 3 | 5 | 5 | 5 | 20 |
+| **Breakdown total** | — | — | — | — | — | **90** |
 
-> **Quantity check:** The supplied size breakdown totals 96 pieces. Per confirmation, the order quantity is 100 pieces (NGN 1,300,000); the listed size quantities are unchanged.
+> **Quantity check:** The supplied size breakdown totals 90 pieces. Per confirmation, the order quantity is 100 pieces (NGN 1,300,000); the listed size quantities are unchanged.
 
 ### 12 · Tote Bag
 
