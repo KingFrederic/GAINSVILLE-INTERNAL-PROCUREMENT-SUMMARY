@@ -7,17 +7,17 @@ Interactive catalogue: `index.html` — **16 style cards**, each with photo, ord
 | Metric | Value |
 |---|---:|
 | Styles in catalogue | 16 |
-| Specified pieces | 1,770 pcs |
-| Specified order value | NGN 20,850,000 |
+| Specified pieces | 1,780 pcs |
+| Specified order value | NGN 21,010,000 |
 
-CAPS carries no figures in the source workbook and SOCKS carries no pricing, so neither line adds to the specified units or value. "Not specified" marks fields left blank in the source sheet.
+CAPS carries no figures in the source workbook, so it adds neither units nor value. SOCKS carries 200 specified pieces but no pricing, so it adds to specified units and NGN 0 to specified order value. "Not specified" marks fields left blank in the source sheet.
 
 ## Line items
 
 | # | Item | Unit price | Bulk price | Order quantity | Order value |
 |---|---|---:|---:|---:|---:|
 | 01 | Net T-Shirts | NGN 16,000 | NGN 14,000 | 40 pcs | NGN 640,000 |
-| 02 | Jersey Sleeveless | NGN 16,000 | NGN 14,000 | 90 pcs | NGN 1,440,000 |
+| 02 | Jersey Sleeveless | NGN 16,000 | NGN 14,000 | 100 pcs | NGN 1,600,000 |
 | 03 | Arm-Cut Sleeveless | NGN 18,000 | NGN 16,000 | 60 pcs | NGN 1,080,000 |
 | 04 | Male Tank Tops | NGN 18,000 | NGN 15,000 | 110 pcs | NGN 1,980,000 |
 | 05 | Male T-Shirts | NGN 15,000 | NGN 12,000 | 150 pcs | NGN 2,250,000 |
@@ -32,15 +32,14 @@ CAPS carries no figures in the source workbook and SOCKS carries no pricing, so 
 | 14 | Tote Bag | NGN 10,000 | NGN 8,000 | 200 pcs | NGN 1,600,000 |
 | 15 | Caps | Not specified | Not specified | Not specified | Not specified |
 | 16 | Socks | Not specified | Not specified | 200 pcs | Not specified |
-| | **Total** | | | **1,770 pcs** | **NGN 20,850,000** |
+| | **Total** | | | **1,780 pcs** | **NGN 21,010,000** |
 
 ## Quantity reconciliation
 
-The following size breakdowns, as supplied, do not add up to the stated order quantity. Per confirmation the stated order quantity and order value stand, and the listed size quantities are unchanged; each affected card carries a *Quantity check* note.
+The following size breakdowns, as supplied, do not add up to the stated order quantity. Per confirmation the stated order quantity and order value stand, and the listed size quantities are unchanged; each affected card carries a *Quantity check* note. Jersey Sleeveless was reconciled to 100 pieces, matching its size breakdown.
 
 | Item | Size breakdown total | Stated order quantity | Difference |
 |---|---:|---:|---:|
-| Jersey Sleeveless | 100 | 90 | +10 |
 | Male T-Shirts | 180 | 150 | +30 |
 | Female T-Shirts | 105 | 200 | -95 |
 | Barell Joggers | 91 | 80 | +11 |
@@ -75,7 +74,7 @@ These details are needed before the CAPS and SOCKS lines can be fully costed.
 
 ### 02 · Jersey Sleeveless
 
-**Order volume:** 90 pcs · **Unit price:** NGN 16,000 · **Bulk price:** NGN 14,000 · **Order value:** NGN 1,440,000
+**Order volume:** 100 pcs · **Unit price:** NGN 16,000 · **Bulk price:** NGN 14,000 · **Order value:** NGN 1,600,000
 
 | Colour | S | M | L | XL | XXL | Total |
 |---|---:|---:|---:|---:|---:|---:|
@@ -84,7 +83,7 @@ These details are needed before the CAPS and SOCKS lines can be fully costed.
 | Beige | 6 | 7 | 6 | 7 | 4 | 30 |
 | **Breakdown total** | — | — | — | — | — | **100** |
 
-> **Quantity check:** The supplied size breakdown totals 100 pieces. Per confirmation, the order quantity is 90 pieces (NGN 1,440,000); the listed size quantities are unchanged.
+> **Order value basis:** The size breakdown totals 100 pieces and the order quantity is 100 pieces (NGN 1,600,000); the value equals the order quantity x the NGN 16,000 unit price.
 
 ### 03 · Arm-Cut Sleeveless
 
