@@ -34,14 +34,17 @@ CAPS carries no figures in the source workbook, so it adds neither units nor val
 
 ## Quantity reconciliation
 
-The following size breakdowns, as supplied, did not add up to the stated order quantity. Per confirmation the stated order value stands, and the listed size quantities are unchanged; each affected card carries a *Quantity check* note. Jersey Sleeveless was reconciled to 100 pieces, matching its size breakdown. Jogger Shorts (Female) was reconciled to 90 pieces, matching its size breakdown; its NGN 1,300,000 order value is reproduced as stated.
+The following size breakdowns, as supplied, did not add up to the stated order quantity. Per confirmation the stated order quantity and order value stand, and the listed size quantities are reproduced exactly as supplied; each affected card carries a *Quantity check* note. Jersey Sleeveless was reconciled to 100 pieces, matching its size breakdown. Jogger Shorts (Female) was reconciled to 90 pieces, matching its size breakdown; its NGN 1,300,000 order value is reproduced as stated.
 
 | Item | Size breakdown total | Stated order quantity | Difference |
 |---|---:|---:|---:|
 | Male T-Shirts | 180 | 150 | +30 |
-| Female T-Shirts | 105 | 200 | -95 |
-| Barell Joggers | 91 | 80 | +11 |
-| Jogger Shorts | 65 | 60 | +5 |
+| Female T-Shirts | 84 | 200 | -116 |
+| Female Tank Tops | 110 | 60 | +50 |
+| Barell Joggers | 83 | 80 | +3 |
+| Jogger Shorts | 56 | 60 | -4 |
+
+The latest colour/size revision updated nine styles without changing any order quantity, unit price or order value: Arm-Cut Sleeveless (Black replaced by Grey), Male Tank Tops (Blue), Male T-Shirts (Black), Female T-Shirts (Black, Sky Blue, Ash), Female Tank Tops (all colours expanded from Black only), Female Spandex Roundneck (all colours, size run now M-2XL), Barell Joggers (Black, Grey, Pink, Purple, Brown added), Jogger Shorts (Black, Ash, Purple) and Jogger Shorts (Female) (all colours).
 
 ## Order value basis
 
@@ -87,7 +90,7 @@ These details are needed before the CAPS and SOCKS lines can be fully costed.
 
 | Colour | M | L | XL | XXL | Total |
 |---|---:|---:|---:|---:|---:|
-| Black | 8 | 7 | 8 | 7 | 30 |
+| Grey | 12 | 0 | 10 | 8 | 30 |
 | Ash | 7 | 8 | 7 | 8 | 30 |
 | **Breakdown total** | — | — | — | — | **60** |
 
@@ -101,7 +104,7 @@ These details are needed before the CAPS and SOCKS lines can be fully costed.
 | Grey | 4 | 6 | 4 | 6 | 20 |
 | Brown | 6 | 4 | 6 | 4 | 20 |
 | Burgundy | 6 | 4 | 4 | 6 | 20 |
-| Blue | 4 | 6 | 6 | 4 | 20 |
+| Blue | 7 | 0 | 7 | 6 | 20 |
 | **Breakdown total** | — | — | — | — | **110** |
 
 ### 05 · Male T-Shirts
@@ -110,7 +113,7 @@ These details are needed before the CAPS and SOCKS lines can be fully costed.
 
 | Colour | S | M | L | XL | XXL | Total |
 |---|---:|---:|---:|---:|---:|---:|
-| Black | 5 | 5 | 5 | 5 | 10 | 30 |
+| Black | 6 | 8 | 5 | 0 | 11 | 30 |
 | Navy Blue | 5 | 5 | 5 | 5 | 10 | 30 |
 | Wine | 5 | 5 | 5 | 5 | 10 | 30 |
 | Sky Blue | 5 | 5 | 5 | 5 | 10 | 30 |
@@ -126,15 +129,15 @@ These details are needed before the CAPS and SOCKS lines can be fully costed.
 
 | Colour | S | M | L | XL | Total |
 |---|---:|---:|---:|---:|---:|
-| Black | — | 5 | 6 | 13 | 24 |
+| Black | — | 3 | 5 | 10 | 18 |
 | Blue | — | 3 | 3 | 9 | 15 |
 | Pink | — | 3 | 3 | 9 | 15 |
 | Green | — | 3 | 3 | 9 | 15 |
-| Sky Blue | 3 | 3 | — | — | 6 |
-| Ash | — | 10 | 10 | 10 | 30 |
-| **Breakdown total** | — | — | — | — | **105** |
+| Sky Blue | 3 | — | — | 9 | 12 |
+| Ash | — | 3 | 3 | 3 | 9 |
+| **Breakdown total** | — | — | — | — | **84** |
 
-> **Quantity check:** The supplied size breakdown totals 105 pieces. Per confirmation, the order quantity is 200 pieces (NGN 1,600,000); the listed size quantities are unchanged.
+> **Quantity check:** The supplied size breakdown totals 84 pieces. Per confirmation, the order quantity is 200 pieces (NGN 1,600,000); the listed size quantities are unchanged.
 
 ### 07 · Female Tank Tops
 
@@ -142,22 +145,26 @@ These details are needed before the CAPS and SOCKS lines can be fully costed.
 
 | Colour | M | L | XL | Total |
 |---|---:|---:|---:|---:|
-| Black | 20 | 20 | 20 | 60 |
-| **Breakdown total** | — | — | — | **60** |
+| Black | 12 | 13 | 5 | 30 |
+| Purple | 6 | 7 | 7 | 20 |
+| Pink | 6 | 7 | 7 | 20 |
+| Beige | 6 | 7 | 7 | 20 |
+| Green | 6 | 7 | 7 | 20 |
+| **Breakdown total** | — | — | — | **110** |
+
+> **Quantity check:** The supplied size breakdown totals 110 pieces. Per confirmation, the order quantity is 60 pieces (NGN 900,000); the listed size quantities are unchanged.
 
 ### 08 · Female Spandex Roundneck
 
 **Order volume:** 120 pcs · **Unit price:** NGN 13,000 · **Order value:** NGN 1,560,000
 
-| Colour | M | L | XL | 2XL | 3XL | Total |
-|---|---:|---:|---:|---:|---:|---:|
-| Khaki | 5 | 6 | 7 | 6 | 6 | 30 |
-| Pink | 7 | 5 | 7 | 6 | 5 | 30 |
-| Black | 4 | 5 | 7 | 7 | 7 | 30 |
-| Light Grey | 4 | 7 | 7 | 7 | 5 | 30 |
-| **Breakdown total** | — | — | — | — | — | **120** |
-
-> **Not in latest submission:** This line was retained unchanged from the existing catalogue; it is not part of the latest quantity and price submission.
+| Colour | M | L | XL | 2XL | Total |
+|---|---:|---:|---:|---:|---:|
+| Khaki | 8 | 8 | 8 | 6 | 30 |
+| Pink | 8 | 8 | 8 | 6 | 30 |
+| Black | 8 | 8 | 8 | 6 | 30 |
+| Light Grey | 8 | 8 | 8 | 6 | 30 |
+| **Breakdown total** | — | — | — | — | **120** |
 
 ### 09 · Barell Joggers
 
@@ -165,14 +172,15 @@ These details are needed before the CAPS and SOCKS lines can be fully costed.
 
 | Colour | M | L | XL | Total |
 |---|---:|---:|---:|---:|
-| Black | 5 | 7 | 10 | 22 |
+| Black | 4 | 7 | 11 | 22 |
 | Ash | 5 | 6 | 4 | 15 |
-| Grey | 4 | 10 | 10 | 24 |
-| Pink | 7 | 7 | 6 | 20 |
-| Purple | 5 | 5 | — | 10 |
-| **Breakdown total** | — | — | — | **91** |
+| Grey | 4 | 4 | 4 | 12 |
+| Pink | 5 | 5 | — | 10 |
+| Purple | 4 | 4 | 4 | 12 |
+| Brown | — | 6 | 6 | 12 |
+| **Breakdown total** | — | — | — | **83** |
 
-> **Quantity check:** The supplied size breakdown totals 91 pieces, and the source lists Grey twice (the two Grey entries are merged here as M [4] L [10] XL [10]). Per confirmation, the order quantity is 80 pieces (NGN 1,760,000); the listed size quantities are unchanged.
+> **Quantity check:** The supplied size breakdown totals 83 pieces. Per confirmation, the order quantity is 80 pieces (NGN 1,760,000); the listed size quantities are unchanged.
 
 ### 10 · Jogger Shorts
 
@@ -180,12 +188,12 @@ These details are needed before the CAPS and SOCKS lines can be fully costed.
 
 | Colour | S | M | L | XL | XXL | Total |
 |---|---:|---:|---:|---:|---:|---:|
-| Black | 3 | 6 | 5 | 6 | 5 | 25 |
-| Ash | 3 | 5 | 6 | 5 | 4 | 23 |
+| Black | — | 5 | 5 | 5 | 5 | 20 |
+| Ash | — | 5 | 5 | 5 | 4 | 19 |
 | Purple | — | 5 | 5 | 4 | 3 | 17 |
-| **Breakdown total** | — | — | — | — | — | **65** |
+| **Breakdown total** | — | — | — | — | — | **56** |
 
-> **Quantity check:** The supplied size breakdown totals 65 pieces. Per confirmation, the order remains 60 pieces (NGN 1,020,000); the listed size quantities are unchanged.
+> **Quantity check:** The supplied size breakdown totals 56 pieces. Per confirmation, the order remains 60 pieces (NGN 1,020,000); the listed size quantities are unchanged.
 
 ### 11 · Jogger Shorts (Female)
 
@@ -193,10 +201,10 @@ These details are needed before the CAPS and SOCKS lines can be fully costed.
 
 | Colour | S | M | L | XL | XXL | Total |
 |---|---:|---:|---:|---:|---:|---:|
-| Black | 3 | 5 | 7 | 8 | 7 | 30 |
-| Grey | 2 | 3 | 5 | 5 | 5 | 20 |
-| Navy Blue | 2 | 3 | 5 | 5 | 5 | 20 |
-| Pink | 2 | 3 | 5 | 5 | 5 | 20 |
+| Black | 5 | 6 | 7 | 7 | 5 | 30 |
+| Grey | 3 | 4 | 6 | 4 | 3 | 20 |
+| Navy Blue | 3 | 4 | 6 | 4 | 3 | 20 |
+| Pink | 3 | 4 | 6 | 4 | 3 | 20 |
 | **Breakdown total** | — | — | — | — | — | **90** |
 
 > **Quantity check:** The supplied size breakdown totals 90 pieces, matching the confirmed order quantity of 90 pieces. The NGN 1,300,000 order value is as stated in the submission; the listed size quantities are unchanged.
