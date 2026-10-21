@@ -242,3 +242,7 @@ These details are needed before the CAPS and SOCKS lines can be fully costed.
 | White | Not specified |
 
 > **Not specified:** The source workbook gives 200 pieces across Black and White but does not split them or provide a unit price, order value or size allocation.
+
+## Product reference images
+
+The catalogue uses the supplied product reference images for Male T-Shirts (10 colour variations), Female Tank Tops (5 colour variations), and Female Spandex Roundneck (8 colour variations). The image files are stored in `assets/` and referenced directly by `index.html`.
