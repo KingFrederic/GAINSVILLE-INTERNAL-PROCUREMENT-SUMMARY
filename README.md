@@ -7,8 +7,8 @@ Interactive catalogue: `index.html` — **14 style cards**, each with photo, ord
 | Metric | Value |
 |---|---:|
 | Styles in catalogue | 14 |
-| Specified pieces | 1,470 pcs |
-| Specified order value | NGN 17,290,000 |
+| Specified pieces | 1,354 pcs |
+| Specified order value | NGN 16,614,000 |
 
 CAPS carries no figures in the source workbook, so it adds neither units nor value. SOCKS carries 200 specified pieces but no pricing, so it adds to specified units and NGN 0 to specified order value. "Not specified" marks fields left blank in the source sheet.
 
@@ -21,7 +21,7 @@ CAPS carries no figures in the source workbook, so it adds neither units nor val
 | 03 | Arm-Cut Sleeveless | NGN 18,000 | 60 pcs | NGN 1,080,000 |
 | 04 | Male Tank Tops | NGN 18,000 | 110 pcs | NGN 1,980,000 |
 | 05 | Male T-Shirts | NGN 15,000 | 150 pcs | NGN 2,250,000 |
-| 06 | Female T-Shirts | NGN 11,000 | 200 pcs | NGN 1,600,000 |
+| 06 | Female T-Shirts | NGN 11,000 | 84 pcs | NGN 924,000 |
 | 07 | Female Tank Tops | NGN 15,000 | 60 pcs | NGN 900,000 |
 | 08 | Female Spandex Roundneck | NGN 13,000 | 120 pcs | NGN 1,560,000 |
 | 09 | Barell Joggers | NGN 22,000 | 80 pcs | NGN 1,760,000 |
@@ -30,16 +30,15 @@ CAPS carries no figures in the source workbook, so it adds neither units nor val
 | 12 | Tote Bag | NGN 10,000 | 200 pcs | NGN 1,600,000 |
 | 13 | Caps | Not specified | Not specified | Not specified |
 | 14 | Socks | Not specified | 200 pcs | Not specified |
-| | **Total** | | **1,470 pcs** | **NGN 17,290,000** |
+| | **Total** | | **1,354 pcs** | **NGN 16,614,000** |
 
 ## Quantity reconciliation
 
-The following size breakdowns, as supplied, did not add up to the stated order quantity. Per confirmation the stated order quantity and order value stand, and the listed size quantities are reproduced exactly as supplied; each affected card carries a *Quantity check* note. Jersey Sleeveless was reconciled to 100 pieces, matching its size breakdown. Jogger Shorts (Female) was reconciled to 90 pieces, matching its size breakdown; its NGN 1,300,000 order value is reproduced as stated.
+The following size breakdowns, as supplied, did not add up to the stated order quantity. Per confirmation the stated order quantity and order value stand, and the listed size quantities are reproduced exactly as supplied; each affected card carries a *Quantity check* note. Jersey Sleeveless was reconciled to 100 pieces, matching its size breakdown. Jogger Shorts (Female) was reconciled to 90 pieces, matching its size breakdown; its NGN 1,300,000 order value is reproduced as stated. Female T-Shirts was reconciled to 84 pieces, matching its size breakdown, and its order value now follows the corrected volume (84 x NGN 11,000 = NGN 924,000).
 
 | Item | Size breakdown total | Stated order quantity | Difference |
 |---|---:|---:|---:|
 | Male T-Shirts | 180 | 150 | +30 |
-| Female T-Shirts | 84 | 200 | -116 |
 | Female Tank Tops | 110 | 60 | +50 |
 | Barell Joggers | 83 | 80 | +3 |
 | Jogger Shorts | 56 | 60 | -4 |
@@ -48,7 +47,7 @@ The latest colour/size revision updated nine styles without changing any order q
 
 ## Order value basis
 
-Order values reproduce the amounts stated in the submission. On Net T-Shirts, Jersey Sleeveless, Arm-Cut Sleeveless, Male Tank Tops, Male T-Shirts, Female Tank Tops, Female Spandex Roundneck, Barell Joggers and Jogger Shorts the stated value equals order quantity x unit price; Female T-Shirts, Jogger Shorts (Female) and Tote Bag values are reproduced as stated (Jogger Shorts (Female) is NGN 1,300,000 on 90 pieces at the NGN 15,000 unit price).
+Order values reproduce the amounts stated in the submission. On Net T-Shirts, Jersey Sleeveless, Arm-Cut Sleeveless, Male Tank Tops, Male T-Shirts, Female Tank Tops, Female Spandex Roundneck, Barell Joggers and Jogger Shorts the stated value equals order quantity x unit price; Jogger Shorts (Female) and Tote Bag values are reproduced as stated (Jogger Shorts (Female) is NGN 1,300,000 on 90 pieces at the NGN 15,000 unit price). Female T-Shirts is now valued at the supplied size breakdown: 84 pcs x NGN 11,000 = NGN 924,000, replacing the previously stated NGN 1,600,000, which corresponded to the superseded 200-piece order volume.
 
 ## Not specified in the source workbook
 
@@ -125,7 +124,7 @@ These details are needed before the CAPS and SOCKS lines can be fully costed.
 
 ### 06 · Female T-Shirts
 
-**Order volume:** 200 pcs · **Unit price:** NGN 11,000 · **Order value:** NGN 1,600,000
+**Order volume:** 84 pcs · **Unit price:** NGN 11,000 · **Order value:** NGN 924,000
 
 | Colour | S | M | L | XL | Total |
 |---|---:|---:|---:|---:|---:|
@@ -137,7 +136,7 @@ These details are needed before the CAPS and SOCKS lines can be fully costed.
 | Ash | — | 3 | 3 | 3 | 9 |
 | **Breakdown total** | — | — | — | — | **84** |
 
-> **Quantity check:** The supplied size breakdown totals 84 pieces. Per confirmation, the order quantity is 200 pieces (NGN 1,600,000); the listed size quantities are unchanged.
+> **Quantity check:** The order volume is 84 pieces, matching the supplied size breakdown (Black 18, Blue 15, Pink 15, Green 15, Sky Blue 12, Ash 9). Order value is 84 pcs x NGN 11,000 = NGN 924,000.
 
 ### 07 · Female Tank Tops
 
@@ -245,4 +244,4 @@ These details are needed before the CAPS and SOCKS lines can be fully costed.
 
 ## Product reference images
 
-The catalogue uses the supplied product reference images for Male T-Shirts (10 colour variations), Female Tank Tops (5 colour variations), and Female Spandex Roundneck (8 colour variations). The image files are stored in `assets/` and referenced directly by `index.html`.
+The catalogue uses the supplied product reference images for Male T-Shirts (10 colour variations), Female Tank Tops (5 colour variations), and Female Spandex Roundneck (8 colour variations). The image files are stored in `assets/` and referenced directly by `index.html`. The Female Tank Tops and Female Spandex Roundneck images were originally attached to each other's cards; they have been interchanged so that each card now shows its own product (5-colour tank tops vs the 8-colour roundneck tees).
