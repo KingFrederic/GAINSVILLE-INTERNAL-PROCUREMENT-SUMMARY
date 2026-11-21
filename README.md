@@ -8,11 +8,12 @@ Interactive catalogue: `index.html` — **16 style cards**, each with photo, ord
 |---|---:|
 | Styles in catalogue | 16 |
 | Specified pieces | 3,379 pcs |
-| Specified order value (goods) | NGN 19,667,333 |
+| Specified order value (goods) | NGN 19,784,000 |
 | Shipping cost | NGN 5,500,000 |
-| **Grand total (goods + shipping)** | **NGN 25,167,333** |
+| Printing cost | NGN 3,987,000 |
+| **Grand total (goods + shipping + printing)** | **NGN 29,271,000** |
 
-CAPS now carries figures (110 pcs across Sweat Cap and Regular Cap, NGN 1,283,333); its unit price is not stated. SOCKS carries 200 specified pieces with a split (100 White, 100 Black) and NGN 560,000 order value. "Not specified" marks fields left blank in the source sheet.
+CAPS now carries figures (110 pcs across Sweat Cap and Regular Cap, NGN 1,400,000); its unit price is not stated. SOCKS carries 200 specified pieces with a split (100 White, 100 Black) and NGN 560,000 order value. "Not specified" marks fields left blank in the source sheet.
 
 ## Line items
 
@@ -30,13 +31,14 @@ CAPS now carries figures (110 pcs across Sweat Cap and Regular Cap, NGN 1,283,33
 | 10 | Jogger Shorts | NGN 17,000 | 60 pcs | NGN 1,020,000 |
 | 11 | Jogger Shorts (Female) | NGN 15,000 | 90 pcs | NGN 1,300,000 |
 | 12 | Stone wash Joggers | NGN 21,000 | 50 pcs | NGN 1,050,000 |
-| 13 | Caps | Not specified | 110 pcs | NGN 1,283,333 |
+| 13 | Caps | Not specified | 110 pcs | NGN 1,400,000 |
 | 14 | Socks | NGN 2,800 | 200 pcs | NGN 560,000 |
 | 15 | Racks | Not specified | 7 pcs | NGN 450,000 |
 | 16 | Ziplock | NGN 225 | 2,000 pcs | NGN 450,000 |
-| | **Goods total** | | **3,379 pcs** | **NGN 19,667,333** |
+| | **Goods total** | | **3,379 pcs** | **NGN 19,784,000** |
 | | Shipping cost | | — | NGN 5,500,000 |
-| | **Grand total (goods + shipping)** | | **3,379 pcs** | **NGN 25,167,333** |
+| | Printing cost | | — | NGN 3,987,000 |
+| | **Grand total (goods + shipping + printing)** | | **3,379 pcs** | **NGN 29,271,000** |
 
 ## Quantity reconciliation
 
@@ -47,11 +49,11 @@ The following size breakdowns, as supplied, did not add up to the stated order q
 | Male T-Shirts | 180 | 150 | +30 |
 | Jogger Shorts | 62 | 60 | +2 |
 
-The latest revision updated Male T-Shirts (Wine replaced by White), Female T-Shirts (order volume 84 → 90, Ash M [3] L [3] XL [9]), Female Tank Tops (order volume 60 → 110), Barell Joggers (order volume 80 → 82, Ash M [4]), Jogger Shorts (S [3] added to Black and Ash; order remains 60 pcs), and costed CAPS (Sweat Cap and Regular Cap, 60 pcs each at NGN 700,000) and SOCKS (100 White and 100 Black pcs, NGN 280,000 each). The latest colour/size revision updated nine styles without changing any order quantity, unit price or order value: Arm-Cut Sleeveless (Black replaced by Grey), Male Tank Tops (Blue), Male T-Shirts (Black), Female T-Shirts (Black, Sky Blue, Ash), Female Tank Tops (all colours expanded from Black only), Female Spandex Roundneck (all colours, size run now M-2XL), Barell Joggers (Black, Grey, Pink, Purple, Brown added), Jogger Shorts (Black, Ash, Purple) and Jogger Shorts (Female) (all colours).
+The latest revision updated Male T-Shirts (Wine replaced by White), Female T-Shirts (order volume 84 → 90, Ash M [3] L [3] XL [9]), Female Tank Tops (order volume 60 → 110), Barell Joggers (order volume 80 → 82, Ash M [4]), Jogger Shorts (S [3] added to Black and Ash; order remains 60 pcs), and initially costed CAPS (Sweat Cap and Regular Cap, 60 pcs each at NGN 700,000; Regular Cap was subsequently revised to 50 pcs) and SOCKS (100 White and 100 Black pcs, NGN 280,000 each). The latest colour/size revision updated nine styles without changing any order quantity, unit price or order value: Arm-Cut Sleeveless (Black replaced by Grey), Male Tank Tops (Blue), Male T-Shirts (Black), Female T-Shirts (Black, Sky Blue, Ash), Female Tank Tops (all colours expanded from Black only), Female Spandex Roundneck (all colours, size run now M-2XL), Barell Joggers (Black, Grey, Pink, Purple, Brown added), Jogger Shorts (Black, Ash, Purple) and Jogger Shorts (Female) (all colours).
 
 ## Order value basis
 
-Order values reproduce the amounts stated in the submission. On Net T-Shirts, Jersey Sleeveless, Arm-Cut Sleeveless, Male Tank Tops, Male T-Shirts, Female Tank Tops, Female Spandex Roundneck, Barell Joggers and Jogger Shorts the stated value equals order quantity x unit price; the Jogger Shorts (Female) value is reproduced as stated (Jogger Shorts (Female) is NGN 1,300,000 on 90 pieces at the NGN 15,000 unit price). Female T-Shirts is valued at the supplied size breakdown: 90 pcs x NGN 11,000 = NGN 990,000, replacing the previously stated NGN 1,600,000, which corresponded to the superseded 200-piece order volume. Female Tank Tops is now valued at the corrected volume: 110 pcs x NGN 15,000 = NGN 1,650,000 (previously 60 pcs at the same unit price). Barell Joggers is now valued at the corrected volume: 82 pcs x NGN 22,000 = NGN 1,804,000. CAPS is valued at the Sweat Cap and Regular Cap lines: Sweat Cap 60 pcs at NGN 700,000 and Regular Cap 50 pcs at NGN 583,333 (revised from 60 pcs; value scaled proportionally, 50/60 × NGN 700,000), total NGN 1,283,333 across 110 pcs; unit price is not stated. SOCKS is valued across the supplied colour split: 100 White pcs at NGN 280,000 and 100 Black pcs at NGN 280,000, total NGN 560,000 (NGN 2,800 per pair). Stone wash Joggers is valued at the stated NGN 1,050,000 across 50 pieces, giving a derived unit price of NGN 21,000. Racks is valued at the stated NGN 450,000 across 7 units; no unit price is stated (implied ≈ NGN 64,285.71 per unit). Ziplock is valued at NGN 450,000 across 2,000 pieces, giving a derived unit price of NGN 225.
+Order values reproduce the amounts stated in the submission. On Net T-Shirts, Jersey Sleeveless, Arm-Cut Sleeveless, Male Tank Tops, Male T-Shirts, Female Tank Tops, Female Spandex Roundneck, Barell Joggers and Jogger Shorts the stated value equals order quantity x unit price; the Jogger Shorts (Female) value is reproduced as stated (Jogger Shorts (Female) is NGN 1,300,000 on 90 pieces at the NGN 15,000 unit price). Female T-Shirts is valued at the supplied size breakdown: 90 pcs x NGN 11,000 = NGN 990,000, replacing the previously stated NGN 1,600,000, which corresponded to the superseded 200-piece order volume. Female Tank Tops is now valued at the corrected volume: 110 pcs x NGN 15,000 = NGN 1,650,000 (previously 60 pcs at the same unit price). Barell Joggers is now valued at the corrected volume: 82 pcs x NGN 22,000 = NGN 1,804,000. CAPS is valued at the Sweat Cap and Regular Cap lines: Sweat Cap 60 pcs at NGN 700,000 and Regular Cap 50 pcs at NGN 700,000, total NGN 1,400,000 across 110 pcs; unit price is not stated. SOCKS is valued across the supplied colour split: 100 White pcs at NGN 280,000 and 100 Black pcs at NGN 280,000, total NGN 560,000 (NGN 2,800 per pair). Stone wash Joggers is valued at the stated NGN 1,050,000 across 50 pieces, giving a derived unit price of NGN 21,000. Racks is valued at the stated NGN 450,000 across 7 units; no unit price is stated (implied ≈ NGN 64,285.71 per unit). Ziplock is valued at NGN 450,000 across 2,000 pieces, giving a derived unit price of NGN 225.
 
 ## Not specified in the source workbook
 
@@ -73,11 +75,11 @@ The Tote Bag line (200 pcs at NGN 10,000, NGN 1,600,000) has been removed from t
 
 Originally, three further lines were added from the submission: **Stone wash Joggers** (50 pcs, NGN 1,050,000), **Racks** (7 pcs, NGN 450,000) and **Ziplock** (4,000 pcs, NGN 800,000). Stone wash Joggers joins the Bottoms category; Racks and Ziplock join Accessories. The catalogue totals were recalculated accordingly: 13 → **16 styles**, 1,332 → **5,389 pcs**, and NGN 17,834,000 → **NGN 20,134,000**. Line items were renumbered sequentially to keep the index in catalogue order (Caps 12 → 13, Socks 13 → 14); the new lines take 12 (Stone wash Joggers), 15 (Racks) and 16 (Ziplock), and the Bottoms and Accessories categories now show 4 styles each. Unit prices are derived where the stated order value divides exactly into the order quantity (Stone wash Joggers NGN 21,000; Ziplock NGN 200); for Racks the unit price is not stated and the order value is reproduced as stated. No colour/size breakdowns were supplied for the three new lines. Ziplock was subsequently revised to 2,000 pcs for NGN 450,000 (NGN 225 per piece), bringing catalogue totals at that time to 3,389 pcs and NGN 19,784,000. Totals were since recalculated for the Regular Cap revision (see below).
 
-## Caps revision and shipping cost
+## Caps revision, printing and shipping costs
 
-The Regular Cap quantity was revised from 60 to **50 pcs** (Sweat Cap unchanged at 60 pcs), so CAPS is now **110 pcs**. Its value was scaled proportionally: 50/60 × NGN 700,000 = **NGN 583,333** for Regular Cap, giving a CAPS order value of **NGN 1,283,333** (NGN 700,000 + NGN 583,333). Catalogue totals were recalculated accordingly: 3,389 → **3,379 pcs** and NGN 19,784,000 → **NGN 19,667,333** (goods).
+The Regular Cap quantity is **50 pcs** with an order value of **NGN 700,000**. Sweat Cap remains 60 pcs at NGN 700,000, so CAPS totals **110 pcs** and **NGN 1,400,000**. The revised goods subtotal is **NGN 19,784,000** across 3,379 pcs.
 
-A separate **Shipping cost** of **NGN 5,500,000** was added as an additional logistics charge. Shipping is not a style and adds no pieces. The **grand total** is therefore NGN 19,667,333 (goods) + NGN 5,500,000 (shipping) = **NGN 25,167,333**. The catalogue (`index.html`) carries a dedicated Shipping section after Accessories showing the goods subtotal, shipping cost and grand total, and the masthead now shows the grand total alongside the goods order value.
+Shipping costs **NGN 5,500,000** and printing costs **NGN 3,987,000**. Neither adds styles or pieces. The grand total is NGN 19,784,000 (goods) + NGN 5,500,000 (shipping) + NGN 3,987,000 (printing) = **NGN 29,271,000**. The catalogue has dedicated Printing and Shipping sections, with a complete cost breakdown in Shipping.
 
 ## Colour and size breakdowns
 
@@ -238,15 +240,15 @@ Colour and size breakdown not specified in the submission; the supplied referenc
 
 ### 13 · Caps
 
-**Order volume:** 110 pcs · **Unit price:** Not specified · **Order value:** NGN 1,283,333
+**Order volume:** 110 pcs · **Unit price:** Not specified · **Order value:** NGN 1,400,000
 
 | Style | Quantity |
 |---|---|
 | Sweat Cap | 60 pcs · NGN 700,000 |
-| Regular Cap | 50 pcs · NGN 583,333 |
-| **Breakdown total** | **110 pcs · NGN 1,283,333** |
+| Regular Cap | 50 pcs · NGN 700,000 |
+| **Breakdown total** | **110 pcs · NGN 1,400,000** |
 
-> **Order value basis:** CAPS is split into Sweat Cap (60 pcs, NGN 700,000) and Regular Cap (50 pcs, NGN 583,333). The Regular Cap quantity was revised from 60 to 50 pcs and its value scaled proportionally (50/60 × NGN 700,000 = NGN 583,333). Order value is NGN 1,283,333 across 110 pieces; unit price is not stated in the submission.
+> **Order value basis:** CAPS is split into Sweat Cap (60 pcs, NGN 700,000) and Regular Cap (50 pcs, NGN 700,000). Order value is NGN 1,400,000 across 110 pieces; unit price is not stated in the submission.
 
 ### 14 · Socks
 
