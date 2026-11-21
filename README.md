@@ -287,13 +287,44 @@ The catalogue uses the supplied product reference images for Male T-Shirts (10 c
 
 ## Supplier invoices (full resolution)
 
-The catalogue menu (`index.html` nav) has a fifth entry, **Invoices (3)**, alongside All styles / Tops / Bottoms / Accessories. Clicking it switches the same page to the invoice view (goods categories and the Printing/Shipping sections are hidden; clicking any goods filter returns to the order view). The masthead also links to the invoices ("Supplier invoices (3) — full resolution →"). Each invoice is shown from its **original file with no resizing and no recompression**, so 100% zoom displays native pixels.
+The catalogue menu (`index.html` nav) has a fifth entry, **Invoices (4)**, alongside All styles / Tops / Bottoms / Accessories. Clicking it switches the same page to the invoice view (goods categories and the Printing/Shipping sections are hidden; clicking any goods filter returns to the order view). The masthead also links to the invoices ("Supplier invoices (4) — full resolution →"). Each invoice is shown from its **original file with no resizing and no recompression**, so 100% zoom displays native pixels.
 
 | # | Invoice | Original file | Resolution | Size | Totals as printed |
 |---|---|---|---|---|---|
 | I-01 | N915 · KZ760 · S2625 order list | `assets/invoices/invoice-n915-kz760-s2625.png` | 5001 × 15000 px | 15.1 MB PNG | 233 pcs · ¥19,482.00 (N915 ×110 ¥7,810 @ ¥71; KZ760 ×83 ¥8,632 @ ¥104; S2625 ×40 ¥3,040 @ ¥76) |
 | I-02 | CAIXIANGDAO — W2708 Jogger Shorts female (2026.9.21) | `assets/invoices/invoice-caixiangdao-w2708.png` | 1840 × 855 px | 2.0 MB PNG | 90 pcs · ¥6,390 @ ¥71 |
 | I-03 | SHJ AD — 1012T 230gsm women tee (2026.10.6) | `assets/invoices/invoice-shj-ad-1012t.png` | 1489 × 1056 px | 2.0 MB PNG | 120 pcs · US$1,113.6 @ US$9.28 (= 7,439.85 RMB as printed) |
+| I-04 | Daniel Warehouse — sales order **#692** (in-app capture, no date shown) | `assets/invoices/invoice-daniel-warehouse-692.jpg` | 547 × 2166 px | 0.18 MB JPEG | 7 style lines · 582 pcs stated · ¥50,517.00 footer total (seven line amounts sum to ¥45,957.00) |
+
+### I-04 · Daniel Warehouse sales order #692
+
+The fourth invoice is a phone capture of an in-app sales order (销售单) headed **Daniel · 主仓** (main warehouse), reference **#692**, footer total **¥50,517.00**. It is the only invoice supplied as a JPEG screenshot rather than a supplier PDF-style sheet, so the original file is kept exactly as delivered (547 × 2166 px, no resizing or recompression). Seven styles are visible, each with a unit price, a stated quantity, a printed line amount and a Chinese colour × size grid:
+
+| Code | Item as printed | Unit price | Qty as printed | Amount as printed | Size grid total |
+|---|---|---:|---:|---:|---:|
+| 3005 | 男装裤两件套 (men's trouser two-piece set) | ¥71.0 | 150 | ¥10,650.00 | 149 |
+| 3008 | 冰丝两件套 (ice-silk two-piece set) | ¥52.0 | 90 | ¥4,680.00 | 90 |
+| 3048 | 水洗西装下摆 (washed suit-hem two-piece) | ¥76.0 | 110 | ¥6,316.00 | 110 |
+| 7763 | 牛裤 (jeans) | ¥100.0 | 50 | ¥5,000.00 | 50 |
+| 752 | 情风 (style name as printed) | ¥85.0 | 60 | ¥5,001.00 | 20 |
+| 5019 | 背心 (vest) | ¥80.0 | 62 | ¥4,960.00 | 60 |
+| 742 | 裙 (dress) | ¥85.0 | 60 | ¥9,350.00 | 146 |
+| | **Seven visible lines** | | **582** | **¥45,957.00** | **625** |
+| | **Footer note as printed (#692#)** | | — | **¥50,517.00** | — |
+
+The screen does not reconcile internally, so every figure is reproduced exactly as displayed and nothing is corrected:
+
+| Check | As printed | Arithmetic | Difference |
+|---|---|---|---:|
+| Footer total vs sum of the seven line amounts | ¥50,517.00 vs ¥45,957.00 | — | +¥4,560.00 (= 60 × ¥76.0) |
+| 3048 line amount | ¥6,316.00 | 110 × ¥76.0 = ¥8,360.00 | −¥2,044.00 |
+| 752 line amount | ¥5,001.00 | 60 × ¥85.0 = ¥5,100.00 | −¥99.00 |
+| 752 qty vs its size grid | 60 vs 20 | — | −40 pcs |
+| 742 qty vs its size grid | 60 vs 146 | amount equals 110 × ¥85.0 | +86 pcs |
+| 5019 qty vs its size grid | 62 vs 60 | amount matches 62 × ¥80.0 | −2 pcs |
+| 3005 qty vs its size grid | 150 vs 149 | amount matches 150 × ¥71.0 | −1 pc |
+
+The full colour × size grid (裤帽 / 藏蓝 / 花灰 / 活性黑 / 象牙白 on 3005; 海蓝蓝 / 活性黑 / 深灰 / 静谧蓝 / 蔚粉 / 森林绿 on 3008; 水洗藏蓝 / 水洗黑色 / 水洗灰红 / 水洗深灰 / 水洗深军 on 3048; 蝴蝶黑色 / 蝴蝶深灰 / 蝴蝶浅棕 / 蝴蝶深色 on 7763 and 752; 灰帽 / 深灰 on 5019; 水洗藏红 / 水洗深蓝 / 水洗黑色 / 水洗深灰 / 水洗深军 / 水洗中灰 on 742) is transcribed inside the catalogue on the I-04 card as well as in the image itself, because the source is a small phone screenshot. Like the other three invoices this is a supplier-side CNY document; it is **not** added to the NGN catalogue totals, styles or pieces. Confirmation of the final quantities and values for #692 is still needed. Its quick-jump thumbnail is a trimmed, resized copy of the top of the screen (phone status bar removed) so the strip previews something legible at 150 px height; the viewer and download still serve the untouched original.
 
 ### How to read them sharply
 
@@ -302,4 +333,4 @@ The catalogue menu (`index.html` nav) has a fifth entry, **Invoices (3)**, along
 - **Full screen** opens the lightbox (same zoom/pan controls, `←`/`→` switch invoices, `Esc` closes).
 - **Open original** opens the untouched file in a new tab; **Download** saves the original. Print shows each invoice full-width.
 
-Invoice images load lazily, so the about 19 MB of originals are only fetched when the Invoices view is opened (or the files are opened/downloaded directly). The quick-jump thumbnails use small derived copies in `assets/invoices/thumbs/` (JPG, ≤145 KB) so the strip paints instantly; every viewer, "Open original" link and download still points at the untouched original. Each sheet shows a "Loading full-resolution original…" state while the file arrives, and if a browser cannot preview a sheet inline the viewer offers a link to open the original file directly. Per-invoice metadata tables above each viewer transcribe the supplier, date, commodity, fabric and totals exactly as printed; detailed SKU/colour/size grids remain in the images themselves.
+Invoice images load lazily, so the about 20 MB of originals are only fetched when the Invoices view is opened (or the files are opened/downloaded directly). The quick-jump thumbnails use small derived copies in `assets/invoices/thumbs/` (JPG, ≤145 KB) so the strip paints instantly; every viewer, "Open original" link and download still points at the untouched original. Each sheet shows a "Loading full-resolution original…" state while the file arrives, and if a browser cannot preview a sheet inline the viewer offers a link to open the original file directly. Per-invoice metadata tables above each viewer transcribe the supplier, date, commodity, fabric and totals exactly as printed; detailed SKU/colour/size grids remain in the images themselves.
