@@ -287,14 +287,13 @@ The catalogue uses the supplied product reference images for Male T-Shirts (10 c
 
 ## Supplier invoices (full resolution)
 
-The catalogue menu (`index.html` nav) has a fifth entry, **Invoices (4)**, alongside All styles / Tops / Bottoms / Accessories. Clicking it switches the same page to the invoice view (goods categories and the Printing/Shipping sections are hidden; clicking any goods filter returns to the order view). The masthead also links to the invoices ("Supplier invoices (4) — full resolution →"). Each invoice is shown from its **original file with no resizing and no recompression**, so 100% zoom displays native pixels.
+The catalogue menu (`index.html` nav) has a fifth entry, **Invoices (3)**, alongside All styles / Tops / Bottoms / Accessories. Clicking it switches the same page to the invoice view (goods categories and the Printing/Shipping sections are hidden; clicking any goods filter returns to the order view). The masthead also links to the invoices ("Supplier invoices (3) — full resolution →"). Each invoice is shown from its **original file with no resizing and no recompression**, so 100% zoom displays native pixels.
 
 | # | Invoice | Original file | Resolution | Size | Totals as printed |
 |---|---|---|---|---|---|
 | I-01 | N915 · KZ760 · S2625 order list | `assets/invoices/invoice-n915-kz760-s2625.png` | 5001 × 15000 px | 15.1 MB PNG | 233 pcs · ¥19,482.00 (N915 ×110 ¥7,810 @ ¥71; KZ760 ×83 ¥8,632 @ ¥104; S2625 ×40 ¥3,040 @ ¥76) |
 | I-02 | CAIXIANGDAO — W2708 Jogger Shorts female (2026.9.21) | `assets/invoices/invoice-caixiangdao-w2708.png` | 1840 × 855 px | 2.0 MB PNG | 90 pcs · ¥6,390 @ ¥71 |
 | I-03 | SHJ AD — 1012T 230gsm women tee (2026.10.6) | `assets/invoices/invoice-shj-ad-1012t.png` | 1489 × 1056 px | 2.0 MB PNG | 120 pcs · US$1,113.6 @ US$9.28 (= 7,439.85 RMB as printed) |
-| I-04 | Daniel warehouse order screenshot | `assets/invoices/invoice-daniel-warehouse-692pcs.jpeg` | 1224 × 8678 px | 1.3 MB JPEG | 692 pcs · ¥28,468.00 (8 styles: 3005/3008/3048/7763/752/5019/717/742) |
 
 ### How to read them sharply
 
@@ -303,4 +302,4 @@ The catalogue menu (`index.html` nav) has a fifth entry, **Invoices (4)**, along
 - **Full screen** opens the lightbox (same zoom/pan controls, `←`/`→` switch invoices, `Esc` closes).
 - **Open original** opens the untouched file in a new tab; **Download** saves the original. Print shows each invoice full-width.
 
-Invoice images load lazily, so the 21 MB of originals are only fetched when the Invoices view is opened (or the files are opened/downloaded directly). The quick-jump thumbnails use small derived copies in `assets/invoices/thumbs/` (JPG, ≤145 KB) so the strip paints instantly; every viewer, "Open original" link and download still points at the untouched original. Each sheet shows a "Loading full-resolution original…" state while the file arrives, and if a browser cannot preview a sheet inline the viewer offers a link to open the original file directly. Per-invoice metadata tables above each viewer transcribe the supplier, date, commodity, fabric and totals exactly as printed; detailed SKU/colour/size grids remain in the images themselves.
+Invoice images load lazily, so the about 19 MB of originals are only fetched when the Invoices view is opened (or the files are opened/downloaded directly). The quick-jump thumbnails use small derived copies in `assets/invoices/thumbs/` (JPG, ≤145 KB) so the strip paints instantly; every viewer, "Open original" link and download still points at the untouched original. Each sheet shows a "Loading full-resolution original…" state while the file arrives, and if a browser cannot preview a sheet inline the viewer offers a link to open the original file directly. Per-invoice metadata tables above each viewer transcribe the supplier, date, commodity, fabric and totals exactly as printed; detailed SKU/colour/size grids remain in the images themselves.
