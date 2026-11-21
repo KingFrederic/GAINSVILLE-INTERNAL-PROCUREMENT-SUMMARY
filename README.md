@@ -1,14 +1,14 @@
 # Gainesville Internal Procurement Summary
 
-Interactive catalogue: `index.html` — **13 style cards**, each with photo, order volume, unit price, order value and colour/size breakdown.
+Interactive catalogue: `index.html` — **16 style cards**, each with photo, order volume, unit price (or "Not specified"), order value and, where supplied, colour/size breakdown.
 
 ## Catalogue totals
 
 | Metric | Value |
 |---|---:|
-| Styles in catalogue | 13 |
-| Specified pieces | 1,332 pcs |
-| Specified order value | NGN 17,834,000 |
+| Styles in catalogue | 16 |
+| Specified pieces | 5,389 pcs |
+| Specified order value | NGN 20,134,000 |
 
 CAPS now carries figures (120 pcs across Sweat Cap and Regular Cap, NGN 1,400,000); its unit price is not stated. SOCKS carries 200 specified pieces with a split (100 White, 100 Black) and NGN 560,000 order value. "Not specified" marks fields left blank in the source sheet.
 
@@ -27,9 +27,12 @@ CAPS now carries figures (120 pcs across Sweat Cap and Regular Cap, NGN 1,400,00
 | 09 | Barell Joggers | NGN 22,000 | 82 pcs | NGN 1,804,000 |
 | 10 | Jogger Shorts | NGN 17,000 | 60 pcs | NGN 1,020,000 |
 | 11 | Jogger Shorts (Female) | NGN 15,000 | 90 pcs | NGN 1,300,000 |
-| 12 | Caps | Not specified | 120 pcs | NGN 1,400,000 |
-| 13 | Socks | NGN 2,800 | 200 pcs | NGN 560,000 |
-| | **Total** | | **1,332 pcs** | **NGN 17,834,000** |
+| 12 | Stone wash Joggers | NGN 21,000 | 50 pcs | NGN 1,050,000 |
+| 13 | Caps | Not specified | 120 pcs | NGN 1,400,000 |
+| 14 | Socks | NGN 2,800 | 200 pcs | NGN 560,000 |
+| 15 | Racks | Not specified | 7 pcs | NGN 450,000 |
+| 16 | Ziplock | NGN 200 | 4,000 pcs | NGN 800,000 |
+| | **Total** | | **5,389 pcs** | **NGN 20,134,000** |
 
 ## Quantity reconciliation
 
@@ -44,7 +47,7 @@ The latest revision updated Male T-Shirts (Wine replaced by White), Female T-Shi
 
 ## Order value basis
 
-Order values reproduce the amounts stated in the submission. On Net T-Shirts, Jersey Sleeveless, Arm-Cut Sleeveless, Male Tank Tops, Male T-Shirts, Female Tank Tops, Female Spandex Roundneck, Barell Joggers and Jogger Shorts the stated value equals order quantity x unit price; the Jogger Shorts (Female) value is reproduced as stated (Jogger Shorts (Female) is NGN 1,300,000 on 90 pieces at the NGN 15,000 unit price). Female T-Shirts is valued at the supplied size breakdown: 90 pcs x NGN 11,000 = NGN 990,000, replacing the previously stated NGN 1,600,000, which corresponded to the superseded 200-piece order volume. Female Tank Tops is now valued at the corrected volume: 110 pcs x NGN 15,000 = NGN 1,650,000 (previously 60 pcs at the same unit price). Barell Joggers is now valued at the corrected volume: 82 pcs x NGN 22,000 = NGN 1,804,000. CAPS is valued at the supplied Sweat Cap and Regular Cap lines: two styles at 60 pcs each, NGN 700,000 each, total NGN 1,400,000; unit price is not stated. SOCKS is valued across the supplied colour split: 100 White pcs at NGN 280,000 and 100 Black pcs at NGN 280,000, total NGN 560,000 (NGN 2,800 per pair).
+Order values reproduce the amounts stated in the submission. On Net T-Shirts, Jersey Sleeveless, Arm-Cut Sleeveless, Male Tank Tops, Male T-Shirts, Female Tank Tops, Female Spandex Roundneck, Barell Joggers and Jogger Shorts the stated value equals order quantity x unit price; the Jogger Shorts (Female) value is reproduced as stated (Jogger Shorts (Female) is NGN 1,300,000 on 90 pieces at the NGN 15,000 unit price). Female T-Shirts is valued at the supplied size breakdown: 90 pcs x NGN 11,000 = NGN 990,000, replacing the previously stated NGN 1,600,000, which corresponded to the superseded 200-piece order volume. Female Tank Tops is now valued at the corrected volume: 110 pcs x NGN 15,000 = NGN 1,650,000 (previously 60 pcs at the same unit price). Barell Joggers is now valued at the corrected volume: 82 pcs x NGN 22,000 = NGN 1,804,000. CAPS is valued at the supplied Sweat Cap and Regular Cap lines: two styles at 60 pcs each, NGN 700,000 each, total NGN 1,400,000; unit price is not stated. SOCKS is valued across the supplied colour split: 100 White pcs at NGN 280,000 and 100 Black pcs at NGN 280,000, total NGN 560,000 (NGN 2,800 per pair). Stone wash Joggers is valued at the stated NGN 1,050,000 across 50 pieces, giving a derived unit price of NGN 21,000. Racks is valued at the stated NGN 450,000 across 7 units; no unit price is stated (implied ≈ NGN 64,285.71 per unit). Ziplock is valued at the stated NGN 800,000 across 4,000 pieces, giving a derived unit price of NGN 200.
 
 ## Not specified in the source workbook
 
@@ -52,12 +55,19 @@ Order values reproduce the amounts stated in the submission. On Net T-Shirts, Je
 |---|---|
 | CAPS | Unit price (sizes and values are now specified: two styles, 60 pcs each) |
 | SOCKS | Size allocation (unit price, order value and colour split are now specified) |
+| Stone wash Joggers | Colour/size breakdown (order volume, order value and derived unit price are specified) |
+| Racks | Unit price and colour/size breakdown (order volume and order value are specified) |
+| Ziplock | Colour/size breakdown (order volume, order value and derived unit price are specified) |
 
-These details remain needed before the final costing of CAPS and SOCKS is complete.
+These details remain needed before the final costing of CAPS, SOCKS and the newly added Stone wash Joggers, Racks and Ziplock lines is complete.
 
 ## Removal of the Tote Bag line
 
 The Tote Bag line (200 pcs at NGN 10,000, NGN 1,600,000) has been removed from the catalogue at the client's instruction, so it no longer appears as a style card or as a line item. The catalogue totals were recalculated accordingly: 14 → **13 styles**, 1,532 → **1,332 pcs**, and NGN 19,434,000 → **NGN 17,834,000**. Remaining line items were renumbered sequentially (Caps 13 → 12, Socks 14 → 13) and the Accessories category now shows 2 styles.
+
+## Addition of the Stone wash Joggers, Racks and Ziplock lines
+
+Three further lines were added from the submission: **Stone wash Joggers** (50 pcs, NGN 1,050,000), **Racks** (7 pcs, NGN 450,000) and **Ziplock** (4,000 pcs, NGN 800,000). Stone wash Joggers joins the Bottoms category; Racks and Ziplock join Accessories. The catalogue totals were recalculated accordingly: 13 → **16 styles**, 1,332 → **5,389 pcs**, and NGN 17,834,000 → **NGN 20,134,000**. Line items were renumbered sequentially to keep the index in catalogue order (Caps 12 → 13, Socks 13 → 14); the new lines take 12 (Stone wash Joggers), 15 (Racks) and 16 (Ziplock), and the Bottoms and Accessories categories now show 4 styles each. Unit prices are derived where the stated order value divides exactly into the order quantity (Stone wash Joggers NGN 21,000; Ziplock NGN 200); for Racks the unit price is not stated and the order value is reproduced as stated. No colour/size breakdowns were supplied for the three new lines.
 
 ## Colour and size breakdowns
 
@@ -208,7 +218,15 @@ The Tote Bag line (200 pcs at NGN 10,000, NGN 1,600,000) has been removed from t
 
 > **Quantity check:** The supplied size breakdown totals 90 pieces, matching the confirmed order quantity of 90 pieces. The NGN 1,300,000 order value is as stated in the submission; the listed size quantities are unchanged.
 
-### 12 · Caps
+### 12 · Stone wash Joggers
+
+**Order volume:** 50 pcs · **Unit price:** NGN 21,000 (derived) · **Order value:** NGN 1,050,000
+
+Colour and size breakdown not specified in the submission; the supplied reference photo shows eight colourways (cream, pink, rust, purple, mustard, grey, green and washed black) without per-colour quantities.
+
+> **Order value basis:** Order value NGN 1,050,000 as stated across 50 pieces; unit price derived as NGN 1,050,000 ÷ 50 = NGN 21,000.
+
+### 13 · Caps
 
 **Order volume:** 120 pcs · **Unit price:** Not specified · **Order value:** NGN 1,400,000
 
@@ -220,7 +238,7 @@ The Tote Bag line (200 pcs at NGN 10,000, NGN 1,600,000) has been removed from t
 
 > **Order value basis:** The source workbook splits CAPS into Sweat Cap (60 pcs, NGN 700,000) and Regular Cap (60 pcs, NGN 700,000). Order value is NGN 1,400,000 across 120 pieces; unit price is not stated in the submission.
 
-### 13 · Socks
+### 14 · Socks
 
 **Order volume:** 200 pcs · **Unit price:** NGN 2,800 · **Order value:** NGN 560,000
 
@@ -232,6 +250,25 @@ The Tote Bag line (200 pcs at NGN 10,000, NGN 1,600,000) has been removed from t
 
 > **Order value basis:** The source workbook splits the 200 pieces across White (100 pcs, NGN 280,000) and Black (100 pcs, NGN 280,000) at NGN 2,800 per pair. Order value is 200 pcs x NGN 2,800 = NGN 560,000. Size allocation is not stated.
 
+### 15 · Racks
+
+**Order volume:** 7 pcs · **Unit price:** Not specified · **Order value:** NGN 450,000
+
+| Item | Quantity |
+|---|---|
+| Racks | 7 pcs · NGN 450,000 |
+| **Breakdown total** | **7 pcs · NGN 450,000** |
+
+> **Order value basis:** Order value NGN 450,000 as stated across 7 units; unit price is not stated in the submission (implied ≈ NGN 64,285.71 per unit). The supplied reference photo shows chrome display racks with wire basket bases.
+
+### 16 · Ziplock
+
+**Order volume:** 4,000 pcs · **Unit price:** NGN 200 (derived) · **Order value:** NGN 800,000
+
+Colour breakdown not specified in the submission; the supplied reference photo shows frosted ziplock packaging bags in assorted colours without per-colour quantities.
+
+> **Order value basis:** Order value NGN 800,000 as stated across 4,000 pieces; unit price derived as NGN 800,000 ÷ 4,000 = NGN 200.
+
 ## Product reference images
 
-The catalogue uses the supplied product reference images for Male T-Shirts (10 colour variations), Female Tank Tops (5 colour variations), and Female Spandex Roundneck (8 colour variations). The image files are stored in `assets/` and referenced directly by `index.html`. The Female Tank Tops and Female Spandex Roundneck images were originally attached to each other's cards; they have been interchanged so that each card now shows its own product (5-colour tank tops vs the 8-colour roundneck tees).
+The catalogue uses the supplied product reference images for Male T-Shirts (10 colour variations), Female Tank Tops (5 colour variations), Female Spandex Roundneck (8 colour variations), Stone wash Joggers (8 colour variations), Racks (chrome display racks with wire basket bases) and Ziplock (frosted ziplock packaging bags in assorted colours). The image files are stored in `assets/` and referenced directly by `index.html`. The Female Tank Tops and Female Spandex Roundneck images were originally attached to each other's cards; they have been interchanged so that each card now shows its own product (5-colour tank tops vs the 8-colour roundneck tees).
