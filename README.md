@@ -7,10 +7,10 @@ Interactive catalogue: `index.html` — **14 style cards**, each with photo, ord
 | Metric | Value |
 |---|---:|
 | Styles in catalogue | 14 |
-| Specified pieces | 1,354 pcs |
-| Specified order value | NGN 16,614,000 |
+| Specified pieces | 1,532 pcs |
+| Specified order value | NGN 19,434,000 |
 
-CAPS carries no figures in the source workbook, so it adds neither units nor value. SOCKS carries 200 specified pieces but no pricing, so it adds to specified units and NGN 0 to specified order value. "Not specified" marks fields left blank in the source sheet.
+CAPS now carries figures (120 pcs across Sweat Cap and Regular Cap, NGN 1,400,000); its unit price is not stated. SOCKS carries 200 specified pieces with a split (100 White, 100 Black) and NGN 560,000 order value. "Not specified" marks fields left blank in the source sheet.
 
 ## Line items
 
@@ -21,43 +21,41 @@ CAPS carries no figures in the source workbook, so it adds neither units nor val
 | 03 | Arm-Cut Sleeveless | NGN 18,000 | 60 pcs | NGN 1,080,000 |
 | 04 | Male Tank Tops | NGN 18,000 | 110 pcs | NGN 1,980,000 |
 | 05 | Male T-Shirts | NGN 15,000 | 150 pcs | NGN 2,250,000 |
-| 06 | Female T-Shirts | NGN 11,000 | 84 pcs | NGN 924,000 |
-| 07 | Female Tank Tops | NGN 15,000 | 60 pcs | NGN 900,000 |
+| 06 | Female T-Shirts | NGN 11,000 | 90 pcs | NGN 990,000 |
+| 07 | Female Tank Tops | NGN 15,000 | 110 pcs | NGN 1,650,000 |
 | 08 | Female Spandex Roundneck | NGN 13,000 | 120 pcs | NGN 1,560,000 |
-| 09 | Barell Joggers | NGN 22,000 | 80 pcs | NGN 1,760,000 |
+| 09 | Barell Joggers | NGN 22,000 | 82 pcs | NGN 1,804,000 |
 | 10 | Jogger Shorts | NGN 17,000 | 60 pcs | NGN 1,020,000 |
 | 11 | Jogger Shorts (Female) | NGN 15,000 | 90 pcs | NGN 1,300,000 |
 | 12 | Tote Bag | NGN 10,000 | 200 pcs | NGN 1,600,000 |
-| 13 | Caps | Not specified | Not specified | Not specified |
-| 14 | Socks | Not specified | 200 pcs | Not specified |
-| | **Total** | | **1,354 pcs** | **NGN 16,614,000** |
+| 13 | Caps | Not specified | 120 pcs | NGN 1,400,000 |
+| 14 | Socks | NGN 2,800 | 200 pcs | NGN 560,000 |
+| | **Total** | | **1,532 pcs** | **NGN 19,434,000** |
 
 ## Quantity reconciliation
 
-The following size breakdowns, as supplied, did not add up to the stated order quantity. Per confirmation the stated order quantity and order value stand, and the listed size quantities are reproduced exactly as supplied; each affected card carries a *Quantity check* note. Jersey Sleeveless was reconciled to 100 pieces, matching its size breakdown. Jogger Shorts (Female) was reconciled to 90 pieces, matching its size breakdown; its NGN 1,300,000 order value is reproduced as stated. Female T-Shirts was reconciled to 84 pieces, matching its size breakdown, and its order value now follows the corrected volume (84 x NGN 11,000 = NGN 924,000).
+The following size breakdowns, as supplied, did not add up to the stated order quantity. Per confirmation the stated order quantity and order value stand, and the listed size quantities are reproduced exactly as supplied; each affected card carries a *Quantity check* note. Jersey Sleeveless was reconciled to 100 pieces, matching its size breakdown. Jogger Shorts (Female) was reconciled to 90 pieces, matching its size breakdown; its NGN 1,300,000 order value is reproduced as stated. Female T-Shirts was reconciled to 90 pieces, matching its size breakdown, and its order value now follows the corrected volume (90 x NGN 11,000 = NGN 990,000). Female Tank Tops and Barell Joggers now reconcile to their size breakdowns (110 pcs and 82 pcs respectively), so they no longer appear as quantity-check discrepancies.
 
 | Item | Size breakdown total | Stated order quantity | Difference |
 |---|---:|---:|---:|
 | Male T-Shirts | 180 | 150 | +30 |
-| Female Tank Tops | 110 | 60 | +50 |
-| Barell Joggers | 83 | 80 | +3 |
-| Jogger Shorts | 56 | 60 | -4 |
+| Jogger Shorts | 62 | 60 | +2 |
 
-The latest colour/size revision updated nine styles without changing any order quantity, unit price or order value: Arm-Cut Sleeveless (Black replaced by Grey), Male Tank Tops (Blue), Male T-Shirts (Black), Female T-Shirts (Black, Sky Blue, Ash), Female Tank Tops (all colours expanded from Black only), Female Spandex Roundneck (all colours, size run now M-2XL), Barell Joggers (Black, Grey, Pink, Purple, Brown added), Jogger Shorts (Black, Ash, Purple) and Jogger Shorts (Female) (all colours).
+The latest revision updated Male T-Shirts (Wine replaced by White), Female T-Shirts (order volume 84 → 90, Ash M [3] L [3] XL [9]), Female Tank Tops (order volume 60 → 110), Barell Joggers (order volume 80 → 82, Ash M [4]), Jogger Shorts (S [3] added to Black and Ash; order remains 60 pcs), and costed CAPS (Sweat Cap and Regular Cap, 60 pcs each at NGN 700,000) and SOCKS (100 White and 100 Black pcs, NGN 280,000 each). The latest colour/size revision updated nine styles without changing any order quantity, unit price or order value: Arm-Cut Sleeveless (Black replaced by Grey), Male Tank Tops (Blue), Male T-Shirts (Black), Female T-Shirts (Black, Sky Blue, Ash), Female Tank Tops (all colours expanded from Black only), Female Spandex Roundneck (all colours, size run now M-2XL), Barell Joggers (Black, Grey, Pink, Purple, Brown added), Jogger Shorts (Black, Ash, Purple) and Jogger Shorts (Female) (all colours).
 
 ## Order value basis
 
-Order values reproduce the amounts stated in the submission. On Net T-Shirts, Jersey Sleeveless, Arm-Cut Sleeveless, Male Tank Tops, Male T-Shirts, Female Tank Tops, Female Spandex Roundneck, Barell Joggers and Jogger Shorts the stated value equals order quantity x unit price; Jogger Shorts (Female) and Tote Bag values are reproduced as stated (Jogger Shorts (Female) is NGN 1,300,000 on 90 pieces at the NGN 15,000 unit price). Female T-Shirts is now valued at the supplied size breakdown: 84 pcs x NGN 11,000 = NGN 924,000, replacing the previously stated NGN 1,600,000, which corresponded to the superseded 200-piece order volume.
+Order values reproduce the amounts stated in the submission. On Net T-Shirts, Jersey Sleeveless, Arm-Cut Sleeveless, Male Tank Tops, Male T-Shirts, Female Tank Tops, Female Spandex Roundneck, Barell Joggers and Jogger Shorts the stated value equals order quantity x unit price; Jogger Shorts (Female) and Tote Bag values are reproduced as stated (Jogger Shorts (Female) is NGN 1,300,000 on 90 pieces at the NGN 15,000 unit price). Female T-Shirts is valued at the supplied size breakdown: 90 pcs x NGN 11,000 = NGN 990,000, replacing the previously stated NGN 1,600,000, which corresponded to the superseded 200-piece order volume. Female Tank Tops is now valued at the corrected volume: 110 pcs x NGN 15,000 = NGN 1,650,000 (previously 60 pcs at the same unit price). Barell Joggers is now valued at the corrected volume: 82 pcs x NGN 22,000 = NGN 1,804,000. CAPS is valued at the supplied Sweat Cap and Regular Cap lines: two styles at 60 pcs each, NGN 700,000 each, total NGN 1,400,000; unit price is not stated. SOCKS is valued across the supplied colour split: 100 White pcs at NGN 280,000 and 100 Black pcs at NGN 280,000, total NGN 560,000 (NGN 2,800 per pair).
 
 ## Not specified in the source workbook
 
 | Item | Missing fields |
 |---|---|
-| CAPS | Colours, size variations, total quantity, unit price, order value |
-| SOCKS | Unit price, order value, colour split (200 pieces across Black and White), size allocation |
+| CAPS | Unit price (sizes and values are now specified: two styles, 60 pcs each) |
+| SOCKS | Size allocation (unit price, order value and colour split are now specified) |
 | Tote Bag | Per-colour quantity split (200 pieces across Black, Jean Blue, Burgundy and Army Green) |
 
-These details are needed before the CAPS and SOCKS lines can be fully costed.
+These details remain needed before the final costing of CAPS and SOCKS is complete.
 
 ## Colour and size breakdowns
 
@@ -114,7 +112,7 @@ These details are needed before the CAPS and SOCKS lines can be fully costed.
 |---|---:|---:|---:|---:|---:|---:|
 | Black | 6 | 8 | 5 | 0 | 11 | 30 |
 | Navy Blue | 5 | 5 | 5 | 5 | 10 | 30 |
-| Wine | 5 | 5 | 5 | 5 | 10 | 30 |
+| White | 5 | 5 | 5 | 5 | 10 | 30 |
 | Sky Blue | 5 | 5 | 5 | 5 | 10 | 30 |
 | Ash | 5 | 5 | 5 | 5 | 10 | 30 |
 | Purple | 5 | 5 | 5 | 5 | 10 | 30 |
@@ -124,7 +122,7 @@ These details are needed before the CAPS and SOCKS lines can be fully costed.
 
 ### 06 · Female T-Shirts
 
-**Order volume:** 84 pcs · **Unit price:** NGN 11,000 · **Order value:** NGN 924,000
+**Order volume:** 90 pcs · **Unit price:** NGN 11,000 · **Order value:** NGN 990,000
 
 | Colour | S | M | L | XL | Total |
 |---|---:|---:|---:|---:|---:|
@@ -133,14 +131,14 @@ These details are needed before the CAPS and SOCKS lines can be fully costed.
 | Pink | — | 3 | 3 | 9 | 15 |
 | Green | — | 3 | 3 | 9 | 15 |
 | Sky Blue | 3 | — | — | 9 | 12 |
-| Ash | — | 3 | 3 | 3 | 9 |
-| **Breakdown total** | — | — | — | — | **84** |
+| Ash | — | 3 | 3 | 9 | 15 |
+| **Breakdown total** | — | — | — | — | **90** |
 
-> **Quantity check:** The order volume is 84 pieces, matching the supplied size breakdown (Black 18, Blue 15, Pink 15, Green 15, Sky Blue 12, Ash 9). Order value is 84 pcs x NGN 11,000 = NGN 924,000.
+> **Quantity check:** The order volume is 90 pieces, matching the supplied size breakdown (Black 18, Blue 15, Pink 15, Green 15, Sky Blue 12, Ash 15). Order value is 90 pcs x NGN 11,000 = NGN 990,000.
 
 ### 07 · Female Tank Tops
 
-**Order volume:** 60 pcs · **Unit price:** NGN 15,000 · **Order value:** NGN 900,000
+**Order volume:** 110 pcs · **Unit price:** NGN 15,000 · **Order value:** NGN 1,650,000
 
 | Colour | M | L | XL | Total |
 |---|---:|---:|---:|---:|
@@ -151,7 +149,7 @@ These details are needed before the CAPS and SOCKS lines can be fully costed.
 | Green | 6 | 7 | 7 | 20 |
 | **Breakdown total** | — | — | — | **110** |
 
-> **Quantity check:** The supplied size breakdown totals 110 pieces. Per confirmation, the order quantity is 60 pieces (NGN 900,000); the listed size quantities are unchanged.
+> **Quantity check:** The order volume is 110 pieces, matching the supplied size breakdown (Black 30, Purple 20, Pink 20, Beige 20, Green 20). Order value is 110 pcs x NGN 15,000 = NGN 1,650,000.
 
 ### 08 · Female Spandex Roundneck
 
@@ -167,19 +165,19 @@ These details are needed before the CAPS and SOCKS lines can be fully costed.
 
 ### 09 · Barell Joggers
 
-**Order volume:** 80 pcs · **Unit price:** NGN 22,000 · **Order value:** NGN 1,760,000
+**Order volume:** 82 pcs · **Unit price:** NGN 22,000 · **Order value:** NGN 1,804,000
 
 | Colour | M | L | XL | Total |
 |---|---:|---:|---:|---:|
 | Black | 4 | 7 | 11 | 22 |
-| Ash | 5 | 6 | 4 | 15 |
+| Ash | 4 | 6 | 4 | 14 |
 | Grey | 4 | 4 | 4 | 12 |
 | Pink | 5 | 5 | — | 10 |
 | Purple | 4 | 4 | 4 | 12 |
 | Brown | — | 6 | 6 | 12 |
-| **Breakdown total** | — | — | — | **83** |
+| **Breakdown total** | — | — | — | **82** |
 
-> **Quantity check:** The supplied size breakdown totals 83 pieces. Per confirmation, the order quantity is 80 pieces (NGN 1,760,000); the listed size quantities are unchanged.
+> **Quantity check:** The order volume is 82 pieces, matching the supplied size breakdown (Black 22, Ash 14, Grey 12, Pink 10, Purple 12, Brown 12). Order value is 82 pcs x NGN 22,000 = NGN 1,804,000.
 
 ### 10 · Jogger Shorts
 
@@ -187,12 +185,12 @@ These details are needed before the CAPS and SOCKS lines can be fully costed.
 
 | Colour | S | M | L | XL | XXL | Total |
 |---|---:|---:|---:|---:|---:|---:|
-| Black | — | 5 | 5 | 5 | 5 | 20 |
-| Ash | — | 5 | 5 | 5 | 4 | 19 |
+| Black | 3 | 5 | 5 | 5 | 5 | 23 |
+| Ash | 3 | 5 | 5 | 5 | 4 | 22 |
 | Purple | — | 5 | 5 | 4 | 3 | 17 |
-| **Breakdown total** | — | — | — | — | — | **56** |
+| **Breakdown total** | — | — | — | — | — | **62** |
 
-> **Quantity check:** The supplied size breakdown totals 56 pieces. Per confirmation, the order remains 60 pieces (NGN 1,020,000); the listed size quantities are unchanged.
+> **Quantity check:** The supplied size breakdown totals 62 pieces (Black 23, Ash 22, Purple 17). Per confirmation, the order remains 60 pieces (NGN 1,020,000); the listed size quantities are shown as supplied.
 
 ### 11 · Jogger Shorts (Female)
 
@@ -223,24 +221,27 @@ These details are needed before the CAPS and SOCKS lines can be fully costed.
 
 ### 13 · Caps
 
-**Order volume:** Not specified · **Unit price:** Not specified · **Order value:** Not specified
+**Order volume:** 120 pcs · **Unit price:** Not specified · **Order value:** NGN 1,400,000
 
-| Colour | Quantity |
+| Style | Quantity |
 |---|---|
-| Not specified | Not specified |
+| Sweat Cap | 60 pcs · NGN 700,000 |
+| Regular Cap | 60 pcs · NGN 700,000 |
+| **Breakdown total** | **120 pcs · NGN 1,400,000** |
 
-> **Not specified:** The source workbook lists CAPS as a category but supplies no colours, sizes, quantity, unit price or order value. Details are required before this line can be costed.
+> **Order value basis:** The source workbook splits CAPS into Sweat Cap (60 pcs, NGN 700,000) and Regular Cap (60 pcs, NGN 700,000). Order value is NGN 1,400,000 across 120 pieces; unit price is not stated in the submission.
 
 ### 14 · Socks
 
-**Order volume:** 200 pcs · **Unit price:** Not specified · **Order value:** Not specified
+**Order volume:** 200 pcs · **Unit price:** NGN 2,800 · **Order value:** NGN 560,000
 
-| Colour | Size breakdown |
+| Colour | Quantity |
 |---|---|
-| Black | Not specified |
-| White | Not specified |
+| White | 100 pcs · NGN 280,000 |
+| Black | 100 pcs · NGN 280,000 |
+| **Breakdown total** | **200 pcs · NGN 560,000** |
 
-> **Not specified:** The source workbook gives 200 pieces across Black and White but does not split them or provide a unit price, order value or size allocation.
+> **Order value basis:** The source workbook splits the 200 pieces across White (100 pcs, NGN 280,000) and Black (100 pcs, NGN 280,000) at NGN 2,800 per pair. Order value is 200 pcs x NGN 2,800 = NGN 560,000. Size allocation is not stated.
 
 ## Product reference images
 
