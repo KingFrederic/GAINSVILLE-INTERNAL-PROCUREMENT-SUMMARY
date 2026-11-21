@@ -25,6 +25,11 @@ h2{font:700 clamp(2rem,4.5vw,4.2rem)/.9 'Playfair Display',Georgia,serif;margin:
     .viewer-viewport.zoomed{cursor:grab}
     .viewer-img{display:block;width:100%;height:auto;margin:0 auto;background:#fff}
     .viewer-img.zoomed{margin:0}
+    .viewer-viewport.loading{background:#e8e5dc url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40'%3E%3C/svg%3E") center/auto no-repeat}
+    .viewer-viewport.loading::after{content:'Loading full-resolution original…';position:absolute;top:1rem;left:0;right:0;text-align:center;font:11px 'DM Mono',monospace;letter-spacing:.08em;text-transform:uppercase;color:#6d6a62}
+    .viewer-viewport.loading .viewer-img{opacity:.25}
+    .viewer-error{margin:0;padding:2rem 1rem;font:13px/1.6 'DM Mono',monospace;text-align:center}
+    .viewer-error a{color:var(--ink);border-bottom:1px solid currentColor}
     .viewer-hint{padding:.6rem .75rem;font:11px 'DM Mono',monospace;color:var(--muted);border-top:1px solid var(--rule);background:#fff;line-height:1.5}
     .invoice-actions{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:1rem}
     .invoice-actions a{appearance:none;padding:.55rem 1rem;border:1px solid var(--ink);background:transparent;font:12px 'DM Mono',monospace;cursor:pointer;text-decoration:none;color:var(--ink);display:inline-block}
@@ -156,15 +161,16 @@ h2{font:700 clamp(2rem,4.5vw,4.2rem)/.9 'Playfair Display',Georgia,serif;margin:
           <div class="shipping-body"><p class="eyebrow">Logistics / Shipping cost</p><h2>SHIPPING COST</h2>
           <div class="metrics"><div><span>Goods subtotal</span><strong>NGN 19,784,000</strong></div><div><span>Shipping cost</span><strong>NGN 5,500,000</strong></div><div><span>Grand total incl. shipping &amp; printing</span><strong>NGN 29,271,000</strong></div></div>
           <table><thead><tr><th>Item</th><th>Amount</th></tr></thead><tbody><tr><td>Goods subtotal — 16 styles, 3,379 pcs</td><td>NGN 19,784,000</td></tr><tr><td>Shipping cost</td><td>NGN 5,500,000</td></tr><tr><td>Printing cost</td><td>NGN 3,987,000</td></tr><tr><td><strong>Grand total (goods + shipping + printing)</strong></td><td><strong>NGN 29,271,000</strong></td></tr></tbody></table><p class="reconciliation-note"><strong>Shipping:</strong> Shipping cost of NGN 5,500,000 is an additional logistics charge on top of the goods order value. It is not a style and adds no pieces. Grand total is NGN 19,784,000 (goods) + NGN 5,500,000 (shipping) + NGN 3,987,000 (printing) = NGN 29,271,000.</p></div>
-        
+        </section>
+
         <section class="cat invoices" data-category="invoices" id="invoices" hidden>
           <div class="cat-heading"><span class="t">Invoices</span><span class="c">04 documents · full resolution</span></div>
           <p class="invoice-intro">Supplier invoices / Original files — no resizing, no recompression. Use Fit for overview, 100% for pixel-sharp reading, drag to pan when zoomed.</p>
           <div class="thumb-strip" aria-label="Invoice quick links">
-            <a href="#invoice-1"><img src="assets/invoices/invoice-n915-kz760-s2625.png" alt="" loading="lazy" decoding="async"><span>I-01 · N915 / KZ760 / S2625<br>233 pcs · ¥19,482</span></a>
-            <a href="#invoice-2"><img src="assets/invoices/invoice-caixiangdao-w2708.png" alt="" loading="lazy" decoding="async"><span>I-02 · CAIXIANGDAO W2708<br>90 pcs · ¥6,390</span></a>
-            <a href="#invoice-3"><img src="assets/invoices/invoice-shj-ad-1012t.png" alt="" loading="lazy" decoding="async"><span>I-03 · SHJ AD 1012T<br>120 pcs · US$1,113.6</span></a>
-            <a href="#invoice-4"><img src="assets/invoices/invoice-daniel-warehouse-692pcs.jpeg" alt="" loading="lazy" decoding="async"><span>I-04 · Daniel warehouse<br>692 pcs · ¥28,468</span></a>
+            <a href="#invoice-1"><img src="assets/invoices/thumbs/invoice-n915-kz760-s2625.jpg" alt="" loading="lazy" decoding="async" width="500" height="150"><span>I-01 · N915 / KZ760 / S2625<br>233 pcs · ¥19,482</span></a>
+            <a href="#invoice-2"><img src="assets/invoices/thumbs/invoice-caixiangdao-w2708.jpg" alt="" loading="lazy" decoding="async" width="500" height="150"><span>I-02 · CAIXIANGDAO W2708<br>90 pcs · ¥6,390</span></a>
+            <a href="#invoice-3"><img src="assets/invoices/thumbs/invoice-shj-ad-1012t.jpg" alt="" loading="lazy" decoding="async" width="500" height="150"><span>I-03 · SHJ AD 1012T<br>120 pcs · US$1,113.6</span></a>
+            <a href="#invoice-4"><img src="assets/invoices/thumbs/invoice-daniel-warehouse-692pcs.jpg" alt="" loading="lazy" decoding="async" width="500" height="150"><span>I-04 · Daniel warehouse<br>692 pcs · ¥28,468</span></a>
           </div>
 
           <article class="invoice" id="invoice-1">
@@ -222,7 +228,8 @@ h2{font:700 clamp(2rem,4.5vw,4.2rem)/.9 'Playfair Display',Georgia,serif;margin:
             <div class="invoice-actions"><a href="assets/invoices/invoice-daniel-warehouse-692pcs.jpeg" target="_blank" rel="noopener">Open original (1224×8678)</a><a href="assets/invoices/invoice-daniel-warehouse-692pcs.jpeg" download>Download original</a></div>
             <p class="reconciliation-note"><strong>Reading note:</strong> Per-style colour/size grids (Chinese colour names) are in the image. Line totals above sum to the printed foot total: 692 pcs · ¥28,468.00.</p>
           </article>
-        </section></section></main><footer>GAINSVILLE PROCUREMENT SUMMARY - generated from supplied workbook. “Not specified” marks fields blank in the source sheet.</footer>
+        </section>
+      </main><footer>GAINSVILLE PROCUREMENT SUMMARY - generated from supplied workbook. “Not specified” marks fields blank in the source sheet.</footer>
     
     <div class="lightbox" hidden role="dialog" aria-modal="true" aria-label="Invoice full screen viewer">
       <div class="lightbox-bar"><span class="lightbox-title">Invoice</span><button type="button" data-lb="prev" aria-label="Previous invoice">&larr; Prev</button><button type="button" data-lb="next" aria-label="Next invoice">Next &rarr;</button><button type="button" data-lb="zoom-out" aria-label="Zoom out">−</button><span class="zoom-label" aria-live="polite">Fit</span><button type="button" data-lb="zoom-in" aria-label="Zoom in">+</button><button type="button" data-lb="fit">Fit</button><button type="button" data-lb="actual">100%</button><span style="flex:1"></span><a class="lb-open" href="#" target="_blank" rel="noopener">Open original</a><a class="lb-download" href="#" download>Download</a><button type="button" data-lb="close" aria-label="Close full screen">Close ✕</button></div>
@@ -279,7 +286,10 @@ document.querySelectorAll('.thumb-strip a').forEach(a=>{a.addEventListener('clic
     viewport.addEventListener('pointermove',function(e){if(!dragging)return;viewport.scrollLeft=sl-(e.clientX-sx);viewport.scrollTop=st-(e.clientY-sy)});
     ['pointerup','pointercancel'].forEach(function(ev){viewport.addEventListener(ev,function(){dragging=false;viewport.classList.remove('panning')})});
     viewport.addEventListener('keydown',function(e){if(e.key==='+'||e.key==='='){e.preventDefault();zoom(1.25)}else if(e.key==='-'){e.preventDefault();zoom(0.8)}else if(e.key==='0'){e.preventDefault();fit()}else if(e.key==='1'){e.preventDefault();actual()}});
-    img.addEventListener('load',function(){label.textContent='Fit'});
+    function ready(){viewport.classList.remove('loading')}
+    img.addEventListener('load',function(){label.textContent='Fit';ready()});
+    img.addEventListener('error',function(){ready();var a=viewer.querySelector('.invoice-actions a');viewport.innerHTML='<p class="viewer-error">This browser could not preview the full-resolution sheet inline.'+(a?' <a href="'+a.getAttribute('href')+'" target="_blank" rel="noopener">Open the original file in a new tab</a>.':'')+'</p>'});
+    if(!img.complete){viewport.classList.add('loading')}else{ready()}
   }
   document.querySelectorAll('.viewer').forEach(setupViewer);
 })();
