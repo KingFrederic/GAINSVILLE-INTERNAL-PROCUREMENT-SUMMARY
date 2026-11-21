@@ -284,3 +284,23 @@ Colour breakdown not specified in the submission; the supplied reference photo s
 ## Product reference images
 
 The catalogue uses the supplied product reference images for Male T-Shirts (10 colour variations), Female Tank Tops (5 colour variations), Female Spandex Roundneck (8 colour variations), Stone wash Joggers (8 colour variations), Racks (chrome display racks with wire basket bases) and Ziplock (frosted ziplock packaging bags in assorted colours). The image files are stored in `assets/` and referenced directly by `index.html`. The Female Tank Tops and Female Spandex Roundneck images were originally attached to each other's cards; they have been interchanged so that each card now shows its own product (5-colour tank tops vs the 8-colour roundneck tees).
+
+## Supplier invoices (full resolution)
+
+The catalogue menu (`index.html` nav) has a fifth entry, **Invoices (4)**, alongside All styles / Tops / Bottoms / Accessories. Clicking it switches the same page to the invoice view (goods categories and the Printing/Shipping sections are hidden; clicking any goods filter returns to the order view). The masthead also links to the invoices ("Supplier invoices (4) — full resolution →"). Each invoice is shown from its **original file with no resizing and no recompression**, so 100% zoom displays native pixels.
+
+| # | Invoice | Original file | Resolution | Size | Totals as printed |
+|---|---|---|---|---|---|
+| I-01 | N915 · KZ760 · S2625 order list | `assets/invoices/invoice-n915-kz760-s2625.png` | 5001 × 15000 px | 15.1 MB PNG | 233 pcs · ¥19,482.00 (N915 ×110 ¥7,810 @ ¥71; KZ760 ×83 ¥8,632 @ ¥104; S2625 ×40 ¥3,040 @ ¥76) |
+| I-02 | CAIXIANGDAO — W2708 Jogger Shorts female (2026.9.21) | `assets/invoices/invoice-caixiangdao-w2708.png` | 1840 × 855 px | 2.0 MB PNG | 90 pcs · ¥6,390 @ ¥71 |
+| I-03 | SHJ AD — 1012T 230gsm women tee (2026.10.6) | `assets/invoices/invoice-shj-ad-1012t.png` | 1489 × 1056 px | 2.0 MB PNG | 120 pcs · US$1,113.6 @ US$9.28 (= 7,439.85 RMB as printed) |
+| I-04 | Daniel warehouse order screenshot | `assets/invoices/invoice-daniel-warehouse-692pcs.jpeg` | 1224 × 8678 px | 1.3 MB JPEG | 692 pcs · ¥28,468.00 (8 styles: 3005/3008/3048/7763/752/5019/717/742) |
+
+### How to read them sharply
+
+- **Fit** (default) scales the sheet to the viewer width for an overview; **100%** sets the image to its native pixel width for pixel-sharp reading (scroll or drag to pan).
+- **+ / −** zoom in 25% steps (up to 400%); **double-click** toggles Fit / 100%; **Ctrl + scroll** zooms; keyboard on the focused viewer: `+`/`-` zoom, `0` fit, `1` = 100%.
+- **Full screen** opens the lightbox (same zoom/pan controls, `←`/`→` switch invoices, `Esc` closes).
+- **Open original** opens the untouched file in a new tab; **Download** saves the original. Print shows each invoice full-width.
+
+Invoice images load lazily, so the 21 MB of originals are only fetched when the Invoices view is opened (or the files are opened/downloaded directly). Per-invoice metadata tables above each viewer transcribe the supplier, date, commodity, fabric and totals exactly as printed; detailed SKU/colour/size grids remain in the images themselves.
